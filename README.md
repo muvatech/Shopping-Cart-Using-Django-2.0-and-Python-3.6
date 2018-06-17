@@ -26,3 +26,5 @@ Lesson 7 [Creating Shopping Cart Views for Our Shop products in Django 2.0 and P
 Lesson 8 [Developing a Context Processor for our Current Cart in Django 2.0 and Python 3.6 ](http://muva.co.ke/blog/lesson-8-developing-context-processor-current-cart-django-2-0-python-3-6/)
 
 Lesson 9 [Persisting customer orders to the database in Django 2.0 and Python 3.6](http://muva.co.ke/blog/lesson-9-persisting-customer-orders-database-django-2-0-python-3-6/)
+
+Lesson 10 [Lesson 10: Completing persisting customer orders to database in Django 2.0 and Python 3.6 ](http://muva.co.ke/blog/lesson-10-completing-persisting-customer-orders-database-django-2-0-python-3-6/)
