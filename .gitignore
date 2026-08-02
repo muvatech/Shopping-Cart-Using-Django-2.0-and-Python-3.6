@@ -2,6 +2,11 @@
 .mypy_cache/
 __pycache__/
 
+# Environment
+.env
+venv/
+.venv/
+
 # Other unwanted stuff
 .idea
 .DS_Store
@@ -9,7 +14,6 @@ __pycache__/
 
 # Database stuff
 *.sqlite3
-migrations/
 db.sqlite3
 
 media_cdn/

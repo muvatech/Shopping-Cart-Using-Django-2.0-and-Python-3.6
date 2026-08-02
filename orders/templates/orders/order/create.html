@@ -9,6 +9,9 @@
         <div class="row" style="margin-top: 6%">
             <div class="col-md-8">
                 <h4 class="page-header">Checkout</h4>
+                {% if error_message %}
+                    <div class="alert alert-danger">{{ error_message }}</div>
+                {% endif %}
                 <form action="." method="post">
                     {% csrf_token %}
                     {{ form.as_p }}<br>
