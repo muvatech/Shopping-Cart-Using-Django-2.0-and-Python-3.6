@@ -23,22 +23,26 @@ python manage.py runserver
 
 ## Topics that will be covered in this tutorial:
 
-Lesson 1 [Building an E-Commerce Shopping Cart Using Django 2.0 and Python 3.6 ](https://muva.co.ke/blog/lesson-1-building-e-commerce-shopping-cart-using-django-2-0-python-3-6/)
+> **Note:** The original `muva.co.ke` blog is no longer online (the domain now
+> redirects to an unrelated site). The links below point to Wayback Machine
+> archives of the original posts instead.
 
-Lesson 2 [Creating Our Shop app and designing product model in Django 2.0 and Python 3.6](http://muva.co.ke/blog/creating-shop-app-designing-product-model-django-2-0-python-3-6/)
+Lesson 1 [Building an E-Commerce Shopping Cart Using Django 2.0 and Python 3.6 ](https://web.archive.org/web/20181001134115/http://muva.co.ke:80/blog/lesson-1-building-e-commerce-shopping-cart-using-django-2-0-python-3-6/)
 
-Lesson 3 [Registering our models in admin site and creating views in Django 2.0 and Python 3.6 ](http://muva.co.ke/blog/lesson-3registering-models-admin-site-creating-views-django-2-0-python-3-6/)
+Lesson 2 [Creating Our Shop app and designing product model in Django 2.0 and Python 3.6](https://web.archive.org/web/20181006075913/http://muva.co.ke:80/blog/creating-shop-app-designing-product-model-django-2-0-python-3-6/)
 
-Lesson 4 [Defining Url patterns and template for Our Shop products in Django 2.0 and Python 3.6](https://muva.co.ke/blog/lesson-4-defining-url-patterns-template-shop-products-django-2-0-python-3-6/)
+Lesson 3 [Registering our models in admin site and creating views in Django 2.0 and Python 3.6 ](https://web.archive.org/web/20181004164619/http://muva.co.ke:80/blog/lesson-3registering-models-admin-site-creating-views-django-2-0-python-3-6/)
 
-Lesson 5 [Completing product detail template for Our Shop products in Django 2.0 and Python 3.6 ](https://muva.co.ke/blog/completing-product-detail-template-shop-products-django-2-0-python-3-6/)
+Lesson 4 [Defining Url patterns and template for Our Shop products in Django 2.0 and Python 3.6](https://web.archive.org/web/20180428150602/http://muva.co.ke:80/blog/lesson-4-defining-url-patterns-template-shop-products-django-2-0-python-3-6/)
 
-Lesson 6 [Developing shopping cart class for Our Shop products in Django 2.0 and Python 3.6 ](https://muva.co.ke/blog/developing-shopping-cart-class-shop-products-django-2-0-python-3-6/)
+Lesson 5 [Completing product detail template for Our Shop products in Django 2.0 and Python 3.6 ](https://web.archive.org/web/20180916080834/http://muva.co.ke:80/blog/completing-product-detail-template-shop-products-django-2-0-python-3-6/)
 
-Lesson 7 [Creating Shopping Cart Views for Our Shop products in Django 2.0 and Python 3.6 ](https://muva.co.ke/blog/creating-shopping-cart-views-shop-products-django-2-0-python-3-6/)
+Lesson 6 [Developing shopping cart class for Our Shop products in Django 2.0 and Python 3.6 ](https://web.archive.org/web/20180923231721/http://muva.co.ke:80/blog/developing-shopping-cart-class-shop-products-django-2-0-python-3-6/)
 
-Lesson 8 [Developing a Context Processor for our Current Cart in Django 2.0 and Python 3.6 ](http://muva.co.ke/blog/lesson-8-developing-context-processor-current-cart-django-2-0-python-3-6/)
+Lesson 7 [Creating Shopping Cart Views for Our Shop products in Django 2.0 and Python 3.6 ](https://web.archive.org/web/20180924162253/http://muva.co.ke:80/blog/creating-shopping-cart-views-shop-products-django-2-0-python-3-6/)
 
-Lesson 9 [Persisting customer orders to the database in Django 2.0 and Python 3.6](http://muva.co.ke/blog/lesson-9-persisting-customer-orders-database-django-2-0-python-3-6/)
+Lesson 8 [Developing a Context Processor for our Current Cart in Django 2.0 and Python 3.6 ](https://web.archive.org/web/20181001032910/http://muva.co.ke:80/blog/lesson-8-developing-context-processor-current-cart-django-2-0-python-3-6/)
 
-Lesson 10 [Lesson 10: Completing persisting customer orders to database in Django 2.0 and Python 3.6 ](http://muva.co.ke/blog/lesson-10-completing-persisting-customer-orders-database-django-2-0-python-3-6/)
+Lesson 9 [Persisting customer orders to the database in Django 2.0 and Python 3.6](https://web.archive.org/web/20180823174435/http://muva.co.ke:80/blog/lesson-9-persisting-customer-orders-database-django-2-0-python-3-6/)
+
+Lesson 10 [Lesson 10: Completing persisting customer orders to database in Django 2.0 and Python 3.6 ](https://web.archive.org/web/20180916082647/http://muva.co.ke:80/blog/lesson-10-completing-persisting-customer-orders-database-django-2-0-python-3-6/)
