@@ -11,6 +11,7 @@ venv/
 .idea
 .DS_Store
 .DS_STORE
+.vscode/
 
 # Database stuff
 *.sqlite3
